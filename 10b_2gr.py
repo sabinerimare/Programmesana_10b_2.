@@ -6,7 +6,7 @@ Melnic Ana
 Mihailovs Alekss
 4 	
 Orlova Katerina
-print(5*11-9**2)
+print(5*11-9**3)
 Rimare Sabîne
 6 	
 Sidorenko Aleksandrs
